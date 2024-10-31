@@ -1,0 +1,42 @@
+/* src/TravelRecommendations.css */
+
+.TravelRecommendations {
+    padding: 40px;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .TravelRecommendations h1 {
+    font-size: 2rem;
+    color: #1d1d1f;
+    margin-bottom: 20px;
+  }
+  
+  .TravelRecommendations ul {
+    list-style-type: none;
+  }
+  
+  .TravelRecommendations li {
+    padding: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .TravelRecommendations li:last-child {
+    border-bottom: none;
+  }
+  
+  .TravelRecommendations strong {
+    font-size: 1.2rem;
+    color: #0071e3;
+  }
+  
+  .TravelRecommendations p {
+    color: #6e6e73;
+    font-size: 1rem;
+    margin-top: 10px;
+  }
+  
